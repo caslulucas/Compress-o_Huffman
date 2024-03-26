@@ -6,7 +6,7 @@ Link
 ## resumo
 Este artigo representa uma análise detalhada do algoritmo de compressão de dados Huffman, um dos métodos mais eficazes e amplamente utilizados para compactar informações digitais. O algoritmo Huffman é baseado na construção de uma árvore Huffman, onde os caracteres mais frequentes são representados por códigos binários menores, resultando em uma representação compacta do texto original. Este artigo explora os princípios fundamentais do algoritmo de Huffman, incluindo sua estrutura de árvore, processo de codificação e decodificação, além de discutir sua eficiência em termos de taxa de compressão e velocidade de processamento. Além disso, são apresentadas comparações com outros métodos de compressão de dados, destacando as vantagens e limitações do algoritmo de Huffman em diferentes cenários. Por fim, são discutidas aplicações práticas do algoritmo de compressão de dados Huffman em diversas áreas, como armazenamento de arquivos, transmissão de dados pela internet e compressão de imagens e vídeos.
 
-![Preview](./pictureHuffman.png)
+![Preview](./ArtigoFacul/pictureHuffman.png)
 
 
 ## Introdução
@@ -34,4 +34,3 @@ O algoritmo de compressão de dados Huffman é uma ferramenta poderosa e versát
 •	Eduardo Furlan Miranda. ORCID 0000-0003-1200-794X
 
 
-![Preview](./pictureHuffman.png)
