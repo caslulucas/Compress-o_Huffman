@@ -33,4 +33,6 @@ O algoritmo de compressão de dados Huffman é uma ferramenta poderosa e versát
 
 •	Eduardo Furlan Miranda. ORCID 0000-0003-1200-794X
 
+https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest
+DOI: 10.5281/zenodo.10884351
 
