@@ -14,7 +14,7 @@ O aumento exponencial na quantidade de dados digitais gerados e armazenados em d
 
 Link do repositório de implementação: https://github.com/caslulucas/Compress-o_Huffman.git
 
-DOI: 
+DOI: 10.5281/zenodo.10884351
 
 ## Discussão 
 
